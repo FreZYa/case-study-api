@@ -1,5 +1,7 @@
 # Case Study API
 
+[![CI](https://github.com/FreZYa/case-study-api/actions/workflows/ci.yml/badge.svg)](https://github.com/FreZYa/case-study-api/actions/workflows/ci.yml)
+
 Django REST Framework ile geliştirilmiş RESTful API. Kullanıcı yönetimi, JWT kimlik doğrulama ve Item CRUD işlemlerini kapsar.
 
 ## Teknolojiler
